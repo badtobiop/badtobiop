@@ -3,11 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,3&height=220&section=header&text=Utkarsh%20Dhakane%20⚔️&fontSize=42&fontAlignY=38&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
-<!-- ⚡ ANIME TYPING SVG -->
+<!-- ⚡ FIXED ANIME TYPING SVG (NO BROKEN ICONS) -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=🎬+Creative+Developer+%26+UI+Animator;⚡+GSAP+%26+Smooth+Lenis+Scroll+Specialist;🔥+Leveling+Up+Into+Full-Stack+%26+Backend;💻+HTML5+|+CSS3+|+JavaScript+|+C+|+Java;🚀+Crafting+Mind-Blowing+Web+Experiences" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=Creative+Developer+%26+UI+Animator;GSAP+%26+Smooth+Lenis+Scroll+Specialist;Leveling+Up+Into+Full-Stack+%26+Backend;HTML5+%2B+CSS3+%2B+JavaScript+%2B+C+%2B+Java;Crafting+Mind-Blowing+Web+Experiences" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -119,3 +117,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,3&height=100&section=footer" width="100%"/>
 </div>
+
