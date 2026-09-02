@@ -1,31 +1,27 @@
-# Hi there, I'm Utkarsh Dhakane 👋
+<!-- HEADER ANIMATED WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2&height=220&section=header&text=Hi%20I'm%20Utkarsh%20👋&fontSize=42&fontAlignY=38&animation=twinkling" width="100%"/>
+</div>
 
-### 🚀 Aspiring Full-Stack Developer | Java & Modern Web Technologies
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=🚀+Full-Stack+Web+Developer;⚡+MERN+Stack+Enthusiast;🔥+Building+Scalable+Web+Apps;💻+Turning+Logic+Into+Code" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🌐 Check out my Live Portfolio: [utkarsh-portfolio.vercel.app](https://apka-link.vercel.app)
-- 🎓 Currently pursuing ENTC Engineering
-- 💬 Ask me about: **HTML, CSS, JavaScript, GSAP, Java, Node.js**
-- 📬 Reach me at: **utkarshdhakane2@gmail.com**
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=badtobiop&label=Profile%20Views&color=0e75c9&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=badtobiop&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badtobiop&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### ⚡ About Me
+```javascript
+const developer = {
+    name: "Utkarsh Dhakane",
+    role: "Full-Stack Web Developer",
+    skills: ["JavaScript", "Node.js", "Express", "MongoDB", "React"],
+    passions: ["Clean Code", "High Performance", "Modern UI/UX"],
+    currentFocus: "Building scalable backend & full-stack web applications 🚀"
+};
