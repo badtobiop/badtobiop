@@ -1,6 +1,6 @@
 <!-- 🌌 NEON CYBERPUNK HEADER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,3&height=220&section=header&text=Utkarsh%20Dhakane%20⚔️&fontSize=42&fontAlignY=38&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,3&height=220&section=header&text=Utkarsh%20Dhakane%20🌀&fontSize=42&fontAlignY=38&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <!-- ⚡ ANIME TYPING SVG -->
@@ -9,28 +9,29 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=badtobiop&label=Chakra%20Power%20Level&color=e11d48&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=badtobiop&label=Tobi%20Chakra%20Level&color=0284c7&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-### 🥷 Character Dossier [MADARA ARCHIVE]
+### 🌀 Character Dossier [TOBI ARCHIVE]
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="45%">
-        <img src="https://media.giphy.com/media/DYB4CXUj2yHierTV4v/giphy.gif" width="320" alt="Madara Uchiha" />
+        <img src="./obito.jpg" width="300" style="border-radius: 12px;" alt="Tobi / Obito" />
       </td>
       <td width="55%">
 <pre>
 ╔══════════════════════════════════════════════╗
-║  🥷 SHINOBI  : Utkarsh Dhakane (@badtobiop)  ║
-║  🔥 RANK     : S-Class Creative Developer    ║
-║  ⚡ JUTSU    : HTML, CSS, JS, GSAP, Lenis    ║
-║  🧠 CHAKRA   : C & Java Core Foundations     ║
-║  🎯 MISSION  : Mastering Backend & Databases ║
-║  ☕ FUEL     : Coffee + Dark Mode Grinding   ║
+║  NAME    : Utkarsh Dhakane (@badtobiop)      ║
+║  ALIAS   : Tobi / Obito                      ║
+║  ROLE    : Creative Developer & UI Animator  ║
+║  STACK   : HTML, CSS, JS, GSAP, Lenis        ║
+║  CORE    : C & Java Foundations              ║
+║  MISSION : Mastering Backend & Databases     ║
+║  FUEL    : Coffee + Dark Mode Grinding       ║
 ╚══════════════════════════════════════════════╝
 </pre>
       </td>
@@ -38,11 +39,11 @@
   </table>
 </div>
 
-> *"Wake up to reality! Nothing ever goes as planned in this world... except smooth GSAP animations and clean code."* — **Madara Uchiha** 👁️🔥
+> *"In the ninja world, those who break the rules are scum, that's true, but those who abandon their friends are worse than scum."* — **Obito Uchiha** 🌀
 
 ---
 
-### 🛠️ Weapon Arsenal & Jutsu Grimoire
+### 🛠️ Weapon Arsenal & Grimoire
 
 #### ⚔️ Mastered Weapons (Current Stack)
 <div align="center">
@@ -70,15 +71,15 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-stats-extended.vercel.app/api?username=badtobiop&show_icons=true&theme=tokyonight&hide_border=false&border_color=7928CA&count_private=true" width="410" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=badtobiop&show_icons=true&theme=tokyonight&hide_border=false&border_color=0284c7&count_private=true" width="410" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=badtobiop&theme=tokyonight&hide_border=false&border_color=7928CA" width="410" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=badtobiop&theme=tokyonight&hide_border=false&border_color=0284c7" width="410" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=badtobiop&layout=compact&theme=tokyonight&hide_border=false&border_color=7928CA" width="410" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=badtobiop&layout=compact&theme=tokyonight&hide_border=false&border_color=0284c7" width="410" alt="Top Languages" />
       </td>
     </tr>
   </table>
