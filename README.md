@@ -1,54 +1,110 @@
-# Hi there, I'm [Aapka Naam] 👋
-### 🚀 Full-Stack Developer | MERN / Next.js / Cloud Enthusiast
+<!-- 🌌 NEON CYBERPUNK HEADER WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,3&height=220&section=header&text=Utkarsh%20Dhakane%20⚔️&fontSize=42&fontAlignY=38&fontColor=ffffff&animation=twinkling" width="100%"/>
+</div>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Building+scalable+web+applications;Passionate+about+clean+code;Full-Stack+MERN+%26+Next.js+Developer" alt="Typing SVG" />
-</p>
+<!-- ⚡ ANIME TYPING SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=⚡+Domain+Expansion:+Infinite+Code;⚔️+S-Rank+Full-Stack+Architect;🔥+Leveling+Up+Every+Single+Day;🚀+Building+Scalable+Backend+%26+Web+Apps;💻+Turning+Logic+Into+Digital+Sorcery" alt="Typing SVG" />
+  </a>
+</div>
 
----
-
-### 👨‍💻 About Me:
-- 🔭 **Currently working on:** [Aapka current project name ya specialization]
-- 🌱 **Learning:** Microservices, Docker & System Design
-- 💬 **Ask me about:** React, Node.js, Express, MongoDB, PostgreSQL, REST APIs
-- ⚡ **Fun Fact:** I love turning complex logic into smooth user experiences.
-
----
-
-### 🛠️ Tech Stack & Tools:
-
-#### **Frontend:**
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-#### **Backend & Databases:**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-#### **DevOps & Tools:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=badtobiop&label=Hunter%20Power%20Level&color=8b5cf6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-### 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+### 🎮 Character Status [HUNTER PROFILE]
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Anime Coding" />
+      </td>
+      <td width="50%">
+<pre>
+╔══════════════════════════════════════════════╗
+║  ⚔️ HUNTER   : Utkarsh Dhakane (@badtobiop)  ║
+║  🧙 CLASS    : S-Rank Full-Stack Sorcerer    ║
+║  ⚡ MANA     : [████████████████████] 100%   ║
+║  ☕ FUEL     : Coffee + Curiosity            ║
+║  🎯 QUEST    : Mastering Scalable Architectures
+║  🔮 DOMAIN   : Web Dev, APIs & Distributed DB║
+╚══════════════════════════════════════════════╝
+</pre>
+      </td>
+    </tr>
+  </table>
+</div>
+
+> *"Throughout Heaven and Earth, I alone am the Exception Handler."* 🤞⚡
+
+---
+
+### 🛠️ Weapon Arsenal & Magic Grimoire (Tech Stack)
+
+<div align="center">
+  <p><b>⚡ Primary Weapons & Frameworks:</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,express,mongodb,postgres,git,github,docker,postman,vscode&perline=8&theme=dark" />
+  </a>
+</div>
+
+---
+
+### 📊 Hunter Combat Records & GitHub Metrics
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=badtobiop&show_icons=true&theme=tokyonight&hide_border=false&border_color=7928CA&count_private=true" width="410" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=badtobiop&theme=tokyonight&hide_border=false&border_color=7928CA" width="410" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badtobiop&layout=compact&theme=tokyonight&hide_border=false&border_color=7928CA" width="410" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🐍 Shadow Extraction (Snake Eating The Grid)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
+### 🔮 Summon Me / Let's Connect
+
+<div align="center">
+  <p>Ready to build something legendary or have a quest for me?</p>
+
+  <a href="https://www.linkedin.com/in/utkarsh-dhakane-6b7b53431/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:utkarshdhakane2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/badtobiop?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects" />
+  </a>
+</div>
+
+<br/>
+
+<!-- 🌌 FOOTER WAVE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,3&height=100&section=footer" width="100%"/>
+</div>
