@@ -1,15 +1,15 @@
-<!-- 🌌 NEON CYBERPUNK HEADER WAVE -->
+<!-- 🌀 OBITO / TOBI THEME HEADER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,3&height=220&section=header&text=Utkarsh%20Dhakane%20🌀&fontSize=42&fontAlignY=38&fontColor=ffffff&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,18,24&height=220&section=header&text=Utkarsh%20Dhakane%20🌀&fontSize=42&fontAlignY=38&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
-<!-- ⚡ ANIME TYPING SVG -->
+<!-- 🔥 UCHIHA FIRE-STYLE TYPING SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=Creative+Developer+%26+UI+Animator;GSAP+%26+Smooth+Lenis+Scroll+Specialist;Leveling+Up+Into+Full-Stack+%26+Backend;HTML5+%2B+CSS3+%2B+JavaScript+%2B+C+%2B+Java;Crafting+Mind-Blowing+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=620&lines=Creative+Developer+%26+UI+Animator;GSAP+%26+Smooth+Lenis+Scroll+Specialist;Fire+Style:+Leveling+Up+Into+Backend;HTML5+%2B+CSS3+%2B+JavaScript+%2B+C+%2B+Java;Unleashing+The+Power+Of+Kamui+Code" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=badtobiop&label=Tobi%20Chakra%20Level&color=0284c7&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=badtobiop&label=Kamui%20Chakra%20Level&color=dc2626&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -19,31 +19,27 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="45%">
-        <img src="./obito.jpg" width="300" style="border-radius: 12px;" alt="Tobi / Obito" />
+      <td align="center" width="40%">
+        <img src="./64db3d04bcd37f5a22729a504ac2c09b.jpg" width="280" style="border-radius: 16px; border: 2px solid #dc2626;" alt="Tobi / Obito" />
       </td>
-      <td width="55%">
-<pre>
-╔══════════════════════════════════════════════╗
-║  NAME    : Utkarsh Dhakane (@badtobiop)      ║
-║  ALIAS   : Tobi / Obito                      ║
-║  ROLE    : Creative Developer & UI Animator  ║
-║  STACK   : HTML, CSS, JS, GSAP, Lenis        ║
-║  CORE    : C & Java Foundations              ║
-║  MISSION : Mastering Backend & Databases     ║
-║  FUEL    : Coffee + Dark Mode Grinding       ║
-╚══════════════════════════════════════════════╝
-</pre>
+      <td width="60%">
+        <h3>🌀 <font color="#f97316">NAME:</font> <font color="#ffffff">Utkarsh Dhakane</font> <code>(@badtobiop)</code></h3>
+        <p>🎭 <b><font color="#dc2626">ALIAS:</font></b> <font color="#a855f7">Tobi / Obito</font></p>
+        <p>⚡ <b><font color="#38bdf8">ROLE:</font></b> Creative Frontend & UI Animator</p>
+        <p>🎬 <b><font color="#4ade80">ARSENAL:</font></b> HTML5, CSS3, JavaScript, GSAP, Lenis</p>
+        <p>🧠 <b><font color="#eab308">CHAKRA CORE:</font></b> C & Java Foundations</p>
+        <p>🎯 <b><font color="#f43f5e">ACTIVE MISSION:</font></b> Conquering Backend & Databases</p>
+        <p>☕ <b><font color="#f97316">FUEL:</font></b> Midnight Coffee + Limitless Code</p>
       </td>
     </tr>
   </table>
 </div>
 
-> *"In the ninja world, those who break the rules are scum, that's true, but those who abandon their friends are worse than scum."* — **Obito Uchiha** 🌀
+> *"In the ninja world, those who break the rules are scum, that's true, but those who abandon their friends are worse than scum."* — **Obito Uchiha** 🌀👁️
 
 ---
 
-### 🛠️ Weapon Arsenal & Grimoire
+### 🛠️ Weapon Arsenal & Jutsu Grimoire
 
 #### ⚔️ Mastered Weapons (Current Stack)
 <div align="center">
@@ -71,15 +67,15 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-stats-extended.vercel.app/api?username=badtobiop&show_icons=true&theme=tokyonight&hide_border=false&border_color=0284c7&count_private=true" width="410" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=badtobiop&show_icons=true&theme=tokyonight&hide_border=false&border_color=dc2626&count_private=true" width="410" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=badtobiop&theme=tokyonight&hide_border=false&border_color=0284c7" width="410" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=badtobiop&theme=tokyonight&hide_border=false&border_color=dc2626" width="410" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=badtobiop&layout=compact&theme=tokyonight&hide_border=false&border_color=0284c7" width="410" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=badtobiop&layout=compact&theme=tokyonight&hide_border=false&border_color=dc2626" width="410" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -114,7 +110,7 @@
 
 <br/>
 
-<!-- 🌌 FOOTER WAVE -->
+<!-- 🌀 FOOTER WAVE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,3&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,18,24&height=100&section=footer" width="100%"/>
 </div>
