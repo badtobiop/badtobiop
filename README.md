@@ -6,7 +6,7 @@
 <!-- ⚡ ANIME TYPING SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=⚡+Domain+Expansion:+Infinite+Code;⚔️+S-Rank+Full-Stack+Architect;🔥+Leveling+Up+Every+Single+Day;🚀+Building+Scalable+Backend+%26+Web+Apps;💻+Turning+Logic+Into+Digital+Sorcery" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=🎬+Creative+Developer+%26+UI+Animator;⚡+GSAP+%26+Smooth+Lenis+Scroll+Specialist;🔥+Leveling+Up+Into+Full-Stack+%26+Backend;💻+HTML5+|+CSS3+|+JavaScript+|+C+|+Java;🚀+Crafting+Mind-Blowing+Web+Experiences" alt="Typing SVG" />
   </a>
 </div>
 
@@ -28,11 +28,11 @@
 <pre>
 ╔══════════════════════════════════════════════╗
 ║  ⚔️ HUNTER   : Utkarsh Dhakane (@badtobiop)  ║
-║  🧙 CLASS    : S-Rank Full-Stack Sorcerer    ║
-║  ⚡ MANA     : [████████████████████] 100%   ║
-║  ☕ FUEL     : Coffee + Curiosity            ║
-║  🎯 QUEST    : Mastering Scalable Architectures
-║  🔮 DOMAIN   : Web Dev, APIs & Distributed DB║
+║  🧙 CLASS    : Creative Frontend & UI Sorcerer
+║  ⚡ CURRENT  : HTML, CSS, JS, GSAP, Lenis    ║
+║  🧠 CORE     : C & Java Foundations          ║
+║  🎯 ACTIVE QUEST: Conquering Backend & DB Arc║
+║  ☕ FUEL     : Curiosity + Creative Code     ║
 ╚══════════════════════════════════════════════╝
 </pre>
       </td>
@@ -40,17 +40,28 @@
   </table>
 </div>
 
-> *"Throughout Heaven and Earth, I alone am the Exception Handler."* 🤞⚡
+> *"Throughout Heaven and Earth, I alone craft the smoothest animations."* 🤞⚡
 
 ---
 
-### 🛠️ Weapon Arsenal & Magic Grimoire (Tech Stack)
+### 🛠️ Weapon Arsenal & Magic Grimoire
 
+#### ⚔️ Mastered Weapons (Current Stack)
 <div align="center">
-  <p><b>⚡ Primary Weapons & Frameworks:</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,express,mongodb,postgres,git,github,docker,postman,vscode&perline=8&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,c,java,git,github,vscode&perline=8" />
+  <br/><br/>
+  <!-- Animation Badges -->
+  <img src="https://img.shields.io/badge/GSAP_Animations-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Lenis_Smooth_Scroll-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Lenis" />
+</div>
+
+<br/>
+
+#### 🔮 Active Awakening (Currently Learning / Grinding Arc)
+<div align="center">
+  <p><i>Grinding everyday to master the Backend & Database realm:</i></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,tailwind&perline=5" />
 </div>
 
 ---
@@ -61,15 +72,15 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=badtobiop&show_icons=true&theme=tokyonight&hide_border=false&border_color=7928CA&count_private=true" width="410" alt="GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=badtobiop&show_icons=true&theme=tokyonight&hide_border=false&border_color=7928CA&count_private=true" width="410" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=badtobiop&theme=tokyonight&hide_border=false&border_color=7928CA" width="410" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=badtobiop&theme=tokyonight&hide_border=false&border_color=7928CA" width="410" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badtobiop&layout=compact&theme=tokyonight&hide_border=false&border_color=7928CA" width="410" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=badtobiop&layout=compact&theme=tokyonight&hide_border=false&border_color=7928CA" width="410" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -87,7 +98,7 @@
 ### 🔮 Summon Me / Let's Connect
 
 <div align="center">
-  <p>Ready to build something legendary or have a quest for me?</p>
+  <p>Interested in creative collaborations, animations, or want to discuss a project?</p>
 
   <a href="https://www.linkedin.com/in/utkarsh-dhakane-6b7b53431/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
