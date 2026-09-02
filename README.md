@@ -3,34 +3,34 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,3&height=220&section=header&text=Utkarsh%20Dhakane%20⚔️&fontSize=42&fontAlignY=38&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
-<!-- ⚡ FIXED ANIME TYPING SVG (NO BROKEN ICONS) -->
+<!-- ⚡ ANIME TYPING SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=Creative+Developer+%26+UI+Animator;GSAP+%26+Smooth+Lenis+Scroll+Specialist;Leveling+Up+Into+Full-Stack+%26+Backend;HTML5+%2B+CSS3+%2B+JavaScript+%2B+C+%2B+Java;Crafting+Mind-Blowing+Web+Experiences" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=badtobiop&label=Hunter%20Power%20Level&color=8b5cf6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=badtobiop&label=Chakra%20Power%20Level&color=e11d48&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-### 🎮 Character Status [HUNTER PROFILE]
+### 🥷 Character Dossier [MADARA ARCHIVE]
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Anime Coding" />
+      <td align="center" width="45%">
+        <img src="https://media.giphy.com/media/DYB4CXUj2yHierTV4v/giphy.gif" width="320" alt="Madara Uchiha" />
       </td>
-      <td width="50%">
+      <td width="55%">
 <pre>
 ╔══════════════════════════════════════════════╗
-║  ⚔️ HUNTER   : Utkarsh Dhakane (@badtobiop)  ║
-║  🧙 CLASS    : Creative Frontend & UI Sorcerer
-║  ⚡ CURRENT  : HTML, CSS, JS, GSAP, Lenis    ║
-║  🧠 CORE     : C & Java Foundations          ║
-║  🎯 ACTIVE QUEST: Conquering Backend & DB Arc║
-║  ☕ FUEL     : Curiosity + Creative Code     ║
+║  🥷 SHINOBI  : Utkarsh Dhakane (@badtobiop)  ║
+║  🔥 RANK     : S-Class Creative Developer    ║
+║  ⚡ JUTSU    : HTML, CSS, JS, GSAP, Lenis    ║
+║  🧠 CHAKRA   : C & Java Core Foundations     ║
+║  🎯 MISSION  : Mastering Backend & Databases ║
+║  ☕ FUEL     : Coffee + Dark Mode Grinding   ║
 ╚══════════════════════════════════════════════╝
 </pre>
       </td>
@@ -38,11 +38,11 @@
   </table>
 </div>
 
-> *"Throughout Heaven and Earth, I alone craft the smoothest animations."* 🤞⚡
+> *"Wake up to reality! Nothing ever goes as planned in this world... except smooth GSAP animations and clean code."* — **Madara Uchiha** 👁️🔥
 
 ---
 
-### 🛠️ Weapon Arsenal & Magic Grimoire
+### 🛠️ Weapon Arsenal & Jutsu Grimoire
 
 #### ⚔️ Mastered Weapons (Current Stack)
 <div align="center">
@@ -58,13 +58,13 @@
 
 #### 🔮 Active Awakening (Currently Learning / Grinding Arc)
 <div align="center">
-  <p><i>Grinding everyday to master the Backend & Database realm:</i></p>
+  <p><i>Grinding everyday to conquer the Backend & Database realm:</i></p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,tailwind&perline=5" />
 </div>
 
 ---
 
-### 📊 Hunter Combat Records & GitHub Metrics
+### 📊 GitHub Activity & Battle Metrics
 
 <div align="center">
   <table>
@@ -117,4 +117,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,3&height=100&section=footer" width="100%"/>
 </div>
-
