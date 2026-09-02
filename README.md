@@ -35,7 +35,7 @@
   </table>
 </div>
 
-> *"In the ninja world, those who break the rules are scum, that's true, but those who abandon their friends are worse than scum."* — **Obito Uchiha** 🌀👁️
+> *"Look at me! There's nothing in my heart! I don't feel pain any longer... There's no need to feel guilty, Kakashi. This hole was opened up by this world of hell. "* — **Obito Uchiha** 🌀👁️
 
 ---
 
